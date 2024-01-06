@@ -9,22 +9,22 @@ A summary of the software architecture course taught by Professor Ramin Nasiri a
 	- [Tactics](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attribute%20base.md#Tactics)
 	- [Categories of Quality Design Decisions](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attribute%20base.md#Categories-of-Quality-Design-Decisions)
 3. [Quality Attributes](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md)
-    - [Availability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Availability)
-    - [lnteroperability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#lnteroperability)
-    - [Modifiability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Modifiability)
-    - [Performance](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Performance)
-    - [Security](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Security)
-    - [Testability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Testability)
-    - [Usability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Usability)
-    - [Variability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Variability)
-    - [Portability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Portability)
-    - [Development Distributability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Development-Distributability)
-    - [Scalability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Scalability)
-    - [Deployability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Deployability)
-    - [Mobility](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Mobility)
-    - [Monitorability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Monitorability)
-    - [Safety](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Safety)
-    - [Marketability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#Marketability)
+    - [Availability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#availability)
+    - [lnteroperability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#interoperability)
+    - [Modifiability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#modifiability)
+    - [Performance](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#performance)
+    - [Security](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#security)
+    - [Testability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#testability)
+    - [Usability](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Quality%20attributes.md#usability)
+    - Variability
+    - Portability
+    - Development Distributability
+    - Scalability
+    - Deployability
+    - Mobility
+    - Monitorability
+    - Safety
+    - Marketability
 4. [Patterns 1](https://github.com/rsthegeek/Software-architecture-summary/blob/main/Patterns.md)
 	- Module Patterns
 		- Layered
