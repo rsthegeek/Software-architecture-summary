@@ -67,7 +67,7 @@
 	- how the data items are created, initialized, accessed, persisted, manipulated, translated, and destroyed.
 	- metadata needed for interpretation of the data.
 	- relational database, collection of objects, or both.
- 	- **UML representation:** _Class Diagram_ diagram_
+ 	- **UML representation:** _Class Diagram_
 
 
 4. **Mapping among Architectural Elements**
