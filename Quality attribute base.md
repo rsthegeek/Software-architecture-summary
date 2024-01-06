@@ -14,7 +14,7 @@
 	- A computer system
 	- Hardware
 	- Software
-	- Infrascructure
+	- Infrastructure
 	- Environment
 2. **Stimulus:** A condition that requires a response.
 	- User operation -> Usability
@@ -31,17 +31,17 @@
 	- The whole system
 	- Some piece(s) of system
 5. **Response:** Stimulus mitigation activities.
-	- By system (runtime qualities)
-	- By developer (development-time qualities)
+	- By System (runtime qualities)
+	- By Developer (development-time qualities)
 6. **Response measure:** Response should be measurable in some fashion. to see if it was satisfactory. (whether the requirement is satisfied)
 	- Latency/Throughput -> Performance
-	- Uptime -> Availibility
+	- Uptime -> Availability
 	- Labor/Wall clock time -> Modifiability
 
 ## Tactics
 ![img](imgs/tactics.png)
 
-- Tactics are intended to control responses to stimuluses.
+- Tactics are intended to control responses to stimuli.
 - Tradeoffs must be explicitly considered and controlled by the designer.
 
 ## Categories of Quality Design Decisions
@@ -80,13 +80,13 @@
 
 6. **Binding Time Decisions:** Scope, point in the life cycle, mechanism.
 	- design time by a developer
-	- runtime by an end user
+	- runtime by an end-user
 	- costs to implement
 	- costs to make a modification
 
 7. **Choice of Technology:** It becomes a constraint.
-	- Which technologies are available.
+	- Which technologies are available?
 	- Whether the available tools are adequate
 	- Internal familiarity & external support
-	- Side effects (constrains)
-	- Compatiblity with the existing tech stack
+	- Side effects (constraints)
+	- Compatibility with the existing tech stack
