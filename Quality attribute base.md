@@ -55,34 +55,41 @@
 		- architectural infrastructure
 		- satisfaction of quality attributes
 	- Allocation of those to non-runtime and runtime elements.
+   	- **UML representation:** _Use case diagram_ (System use cases & Business use case)
 
 2. **Coordination Model:** Elements interact with each other through mechanisms.
 	- What elements must/must not coordinate
 	- Properties of coordination (timeliness, currency, etc.)
 	- Communication mechanisms
+ 	- **UML representation:** _Communication/Collaboration diagram_
 
 3. **Data Model**
 	- how the data items are created, initialized, accessed, persisted, manipulated, translated, and destroyed.
 	- metadata needed for interpretation of the data.
 	- relational database, collection of objects, or both.
+ 	- **UML representation:** _Class Diagram_ diagram_
 
-4. **Management of Resources:** Hardware & Software.
-	- Limits of resources that must be managed.
-	- Which system element(s) manage resource.
-	- How resources are shared.
-	- Impact of saturation on different resources.
 
-5. **Mapping among Architectural Elements**
+4. **Mapping among Architectural Elements**
 	- modules -> runtime elements
 	- runtime elements -> processors
 	- items in the data model -> data stores
 	- modules & runtime elements -> units of delivery
+ 	- **UML representation:** _Component Diagram_
+
+5. **Resources Management:** Hardware & Software.
+	- Limits of resources that must be managed.
+	- Which system element(s) manage resource.
+	- How resources are shared.
+	- Impact of saturation on different resources.
+ 	- **UML representation:** _Class Diagram/Package Diagram(?)_
 
 6. **Binding Time Decisions:** Scope, point in the life cycle, mechanism.
 	- design time by a developer
 	- runtime by an end-user
 	- costs to implement
 	- costs to make a modification
+	- **UML representation:** _Timing Diagram(?)_
 
 7. **Choice of Technology:** It becomes a constraint.
 	- Which technologies are available?
@@ -90,3 +97,4 @@
 	- Internal familiarity & external support
 	- Side effects (constraints)
 	- Compatibility with the existing tech stack
+ 	- **UML representation:** _Deployment Diagram_
